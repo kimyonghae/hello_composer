@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4" : {
-            "dev1234yong\\" : "src"
+            "dev1234yong\\" : "src\\"
         }
     }
 }
