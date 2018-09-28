@@ -2,10 +2,10 @@
     "name": "dev1234yong/hello_composer",
     "description": "hi my first composer pkg",
     "type": "library",
-    "license": "yong",
+    "license": "dev1234yong",
     "authors": [
         {
-            "name": "yong",
+            "name": "dev1234yong",
             "email": "dev1234yong@gmail.com"
         }
     ],
