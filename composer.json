@@ -1,0 +1,14 @@
+{
+    "name": "yong/hello_composer",
+    "description": "hi my first composer pkg",
+    "type": "library",
+    "license": "yong",
+    "authors": [
+        {
+            "name": "yong",
+            "email": "dev1234yong@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
