@@ -1,5 +1,5 @@
 <?php
-
+namespace dev1234yong;
 /**
  * Created by IntelliJ IDEA.
  * User:
