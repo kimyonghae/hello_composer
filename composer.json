@@ -2,7 +2,7 @@
     "name": "dev1234yong/hello_composer",
     "description": "hi my first composer pkg",
     "type": "library",
-    "license": "dev1234yong",
+    "license": "",
     "authors": [
         {
             "name": "dev1234yong",
